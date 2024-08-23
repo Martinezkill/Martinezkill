@@ -1,5 +1,9 @@
 ## Emanuel Martinez 👋
 
+Enthusiastic web developer with solid knowledge of HTML, CSS, JavaScript, and React. Proactive and self-taught, with experience in personal projects that demonstrate skills in front-end development and problem-solving.
+##
+
+
 - 🔭 I’m currently working on Hilton
 - 🌱 I’m currently learning REACT, NODE
 - 🤔 I’m looking for help with JAVASCRIPT, NODE
