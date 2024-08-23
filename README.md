@@ -1,4 +1,4 @@
-## Hi there 👋
+## Emanuel Martinez 👋
 
 - 🔭 I’m currently working on Hilton
 - 🌱 I’m currently learning REACT, NODE
