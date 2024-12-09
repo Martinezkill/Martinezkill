@@ -26,5 +26,4 @@ Enthusiastic web developer with solid knowledge of HTML, CSS, JavaScript, and Re
 <div> 
   <a href="https://www.linkedin.com/in/emanuel-martinez-832631210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/emanu_matinez/?igshid=MjEwN2IyYWYwYw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://app.rocketseat.com.br/me/emanuel-de-souza-martinez-05831"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=emanuel-de-souza-martinez-05831&type=card" width="280" alt="EMANUEL DE SOUZA MARTINEZ's Rocket ID"/></a>
 </div>
